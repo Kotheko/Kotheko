@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Empty project.
+It allows me to advance further in the knowledge of neural network development.
+Course of study: https://dnk.the-founder.ru/school/courses
+My telegram: I will not publish in this repository :(
